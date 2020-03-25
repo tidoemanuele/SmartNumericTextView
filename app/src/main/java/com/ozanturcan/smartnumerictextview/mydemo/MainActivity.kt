@@ -1,7 +1,8 @@
-package com.ozanturcan.smartnumerictextview
+package com.ozanturcan.smartnumerictextview.mydemo
 
 import android.os.Bundle
 import android.support.v7.app.AppCompatActivity
+
 
 class MainActivity : AppCompatActivity() {
 
